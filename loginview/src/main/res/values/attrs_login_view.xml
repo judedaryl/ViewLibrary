@@ -1,0 +1,11 @@
+<resources>
+    <declare-styleable name="LoginView">
+        <attr name="loginHint" format="string"/>
+        <attr name="passwordHint" format="string"/>
+        <attr name="submit_text" format="string"/>
+        <attr name="submit_background_color" format="color|reference" />
+        <attr name="submit_text_color" format="color|reference" />
+        <attr name="title" format="string"/>
+        <attr name="logo" format="reference"/>
+    </declare-styleable>
+</resources>

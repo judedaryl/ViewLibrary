@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="defaultSubmitTextColor">#ffffff</color>
+    <color name="defaultSubmitBackgroundColor">#000000</color>
+</resources>

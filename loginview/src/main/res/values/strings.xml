@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LoginView</string>
+
+
+    <string name="defaultLogoDescription">Application Logo</string>
+    <string name="defaultTitle">Mobile App</string>
+    <string name="defaultLoginHint">Username</string>
+    <string name="defaultPasswordHint">Password</string>
+    <string name="defaultSubmitText">Submit</string>
+</resources>
