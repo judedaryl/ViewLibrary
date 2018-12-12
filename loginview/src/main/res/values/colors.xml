@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="defaultTitleColor">#000000</color>
     <color name="defaultSubmitTextColor">#ffffff</color>
     <color name="defaultSubmitBackgroundColor">#000000</color>
+    <color name="defaultInputColor">#000000</color>
+    <color name="defaultForgotPasswordColor">#6bb0ee</color>
+    <color name="defaultErrorColor">#C51162</color>
 </resources>

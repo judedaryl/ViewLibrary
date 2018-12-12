@@ -7,4 +7,5 @@
     <string name="defaultLoginHint">Username</string>
     <string name="defaultPasswordHint">Password</string>
     <string name="defaultSubmitText">Submit</string>
+    <string name="defaultForgotPassword">Forgot Password?</string>
 </resources>

@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="default_title_size">26sp</dimen>
+    <dimen name="default_label_size">14sp</dimen>
+    <dimen name="default_error_size">12sp</dimen>
+    <dimen name="default_logo_size">100dp</dimen>
 </resources>

@@ -6,5 +6,6 @@ public interface LoginViewListener {
     void onPasswordTyping(String password);
     void onLoginTapped();
     void onPasswordTapped();
+    void onForgotPasswordTapped();
     void onLogoTapped();
 }
